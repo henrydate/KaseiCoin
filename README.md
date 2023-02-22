@@ -59,7 +59,7 @@ The steps for this assignment are divided into the following subsections:
 
 
 ## Contributors
-> email: henrydate1@gmail.com |
+> Email: henrydate1@gmail.com |
 > [GitHub](https://github.com/henrydate) |
 > [LinkedIn](https://www.linkedin.com/in/henry-date-9356351a4/)
 
