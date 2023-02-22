@@ -45,7 +45,7 @@ The steps to follow for the development of this project are as follows:
 
 
 ## Contributors
-> Email: henrydate1@gmail.com |
+> Email: Henrydate1@gmail.com |
 > [GitHub](https://github.com/henrydate) |
 > [LinkedIn](https://www.linkedin.com/in/henry-date-9356351a4/)
 
